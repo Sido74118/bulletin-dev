@@ -1,4 +1,4 @@
-# Qwitter (qwitter)
+# Bulletin (web-app)
 
 A Twitter-like Cross-Platrom created with Quasar Framework, VueJS & Firebase
 
