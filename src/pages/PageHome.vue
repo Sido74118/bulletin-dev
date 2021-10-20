@@ -14,7 +14,7 @@
           >
             <template v-slot:before>
               <q-avatar size="xl">
-                <img src="https://s.gravatar.com/avatar/ce7f3697e231df38b3ca6065848520da?s=80">
+                <img src="https://secure.gravatar.com/avatar/6d55ac7726b488d125e48a2161ad1ea3">
               </q-avatar>
             </template>
           </q-input>
@@ -25,7 +25,7 @@
             :disable="!newQweetContent"
             class="q-mb-lg"
             color="primary"
-            label="Qweet"
+            label="Post"
             rounded
             unelevated
             no-caps
@@ -52,7 +52,7 @@
           >
             <q-item-section avatar top>
               <q-avatar size="xl">
-                <img src="https://s.gravatar.com/avatar/ce7f3697e231df38b3ca6065848520da?s=80">
+                <img src="https://secure.gravatar.com/avatar/6d55ac7726b488d125e48a2161ad1ea3">
               </q-avatar>
             </q-item-section>
 

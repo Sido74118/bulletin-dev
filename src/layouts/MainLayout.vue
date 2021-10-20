@@ -9,7 +9,7 @@
           <span class="gt-sm">{{ $route.name }}</span>
           <q-icon
             class="header-icon q-pa-md lt-md"
-            name="fas fa-dove"
+            name="fas fa-blog"
             size="sm"
             color="primary"
           />
@@ -27,7 +27,7 @@
     >
       <q-icon
         class="q-pa-md"
-        name="fas fa-dove"
+        name="fas fa-blog"
         size="lg"
         color="primary"
       />
