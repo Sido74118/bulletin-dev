@@ -98,3 +98,5 @@ quasar dev -m cordova -T android
 ```bash
 quasar build -m cordova -T android
 ```
+### Contributors
+[BlazeCast](https://github.com/Sido74118) & [Onel](https://github.com/OnelCruz)
